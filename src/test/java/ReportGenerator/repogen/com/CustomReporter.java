@@ -122,7 +122,7 @@ public class CustomReporter implements IReporter,ITestListener {
 
 	private void endHtmlmain() {
 		mOut.println("</table>");
-		mOut.println("</p></div>");
+		//mOut.println("</p></div>");
 	}
 
 	public void onTestStart(ITestResult result) {
