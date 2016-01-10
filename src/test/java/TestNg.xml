@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+	<listeners>
+		<listener class-name="ReportGenerator.repogen.com.CustomReporter" />
+		<!--  <listener class-name="org.testng.reporters.SuiteHTMLReporter" />-->
+		<!--  <listener class-name="ReportGenerator.repogen.com.JqReporter2" /> -->
+	</listeners>
+	<suite-files>
+
+        <suite-file path="./suite1.xml" />
+
+        <suite-file path="./suite2.xml" />
+
+    </suite-files>
+	
+
+  <test name="Test">
+    <classes>
+      <class name="ReportGenerator.repogen.com.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

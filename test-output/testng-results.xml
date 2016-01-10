@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3" started-at="2016-01-10T11:58:57Z" finished-at="2016-01-10T11:58:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3" started-at="2016-01-10T11:58:57Z" finished-at="2016-01-10T11:58:57Z">
+      <class name="ReportGenerator.repogen.com.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:ReportGenerator.repogen.com.NewTest@7a92922]" name="f" duration-ms="1" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ReportGenerator.repogen.com.NewTest@7a92922]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ReportGenerator.repogen.com.NewTest@7a92922]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReportGenerator.repogen.com.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="Suite one" duration-ms="24" started-at="2016-01-10T11:58:57Z" finished-at="2016-01-10T11:58:57Z">
+    <groups>
+    </groups>
+    <test name="Test one" duration-ms="24" started-at="2016-01-10T11:58:57Z" finished-at="2016-01-10T11:58:57Z">
+      <class name="ReportGenerator.repogen.com.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ReportGenerator.repogen.com.NewTest@649d209a]" name="beforeMethod" is-config="true" duration-ms="5" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:ReportGenerator.repogen.com.NewTest@649d209a]" name="f" duration-ms="5" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ReportGenerator.repogen.com.NewTest@649d209a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReportGenerator.repogen.com.NewTest -->
+    </test> <!-- Test one -->
+  </suite> <!-- Suite one -->
+  <suite name="Suite two" duration-ms="4" started-at="2016-01-10T11:58:57Z" finished-at="2016-01-10T11:58:57Z">
+    <groups>
+    </groups>
+    <test name="Test two" duration-ms="4" started-at="2016-01-10T11:58:57Z" finished-at="2016-01-10T11:58:57Z">
+      <class name="ReportGenerator.repogen.com.NewTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:ReportGenerator.repogen.com.NewTest@23223dd8]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f()[pri:0, instance:ReportGenerator.repogen.com.NewTest@23223dd8]" name="f" duration-ms="1" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:ReportGenerator.repogen.com.NewTest@23223dd8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2016-01-10T22:58:57Z" finished-at="2016-01-10T22:58:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- ReportGenerator.repogen.com.NewTest -->
+    </test> <!-- Test two -->
+  </suite> <!-- Suite two -->
+</testng-results>

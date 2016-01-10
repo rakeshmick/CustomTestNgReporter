@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite two" parallel="false">
+	
+	
+
+  <test name="Test two">
+    <classes>
+      <class name="ReportGenerator.repogen.com.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
